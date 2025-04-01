@@ -1,6 +1,8 @@
 ## Hey there :)
 
-I'm Nischal 👾 
+I'm Nischal. 👾 
+
+I train algorithms to see patterns. 👀
 
 ### I had train models on
 
@@ -9,7 +11,7 @@ I'm Nischal 👾
 - UAV/Satellite Imagery (RGB & Multispectral)
 - Point Cloud
 
-#### non-geospatial 👀
+#### non-geospatial 🖼️
 
 - Images (RGB)
 - Videos
