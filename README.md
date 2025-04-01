@@ -2,7 +2,7 @@
 
 I'm Nischal. 👾 
 
-I train algorithms to see patterns. 👀
+I like to train algorithms to see patterns. 👀
 
 ### I had train models on
 
