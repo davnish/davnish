@@ -2,7 +2,7 @@
 
 I'm Nischal 👾 
 
-### I train models on
+### I had train models on
 
 #### geospatial 🌏
 
