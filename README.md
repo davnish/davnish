@@ -9,7 +9,7 @@ I'm Nischal 👾
 - UAV/Satellite Imagery (RGB & Multispectral)
 - Point Cloud
 
-#### Computer Vision 👀
+#### non-geospatial 👀
 
 - Images (RGB)
 - Videos
