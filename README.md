@@ -2,9 +2,7 @@
 
 I'm Nischal. 👾 
 
-I like to train algorithms to see patterns. 👀
-
-### I had train models on
+### I train models on
 
 #### geospatial 🌏
 
