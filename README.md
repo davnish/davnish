@@ -1,39 +1,16 @@
-## Hey there :)
+## Hi :)
 
-I'm Nischal. 👾 
+I'm Nischal, Currently working on developing models and pipelines in the geospatial domain 🌏.
 
-### I train models on
+I have worked with,
 
-#### geospatial 🌏
+- UAV and satellite Imagery (RGB & Multispectral)
+- Point Clouds data (ALS & TLS)
 
-- UAV/Satellite Imagery (RGB & Multispectral)
-- Point Cloud
-
-#### non-geospatial 🖼️
-
-- Images (RGB)
-- Videos
-
-
-for tasks such as detection, segmentation, classification :)
+for tasks such as detection, segmentation, classification, and change detection.
 
 
 ## 📕 Publications
 
 - 'Evaluation of Segment Anything Model (SAM) for Automated Labeling in Machine Learning Classification of UAV Geospatial Data' Published in Journal Earth Science Informatics.
 [Read Here](https://rdcu.be/dMUAg)
-
-<!--
-**davnish/davnish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
